@@ -10,7 +10,7 @@ Algoritmo "5 - Troco_verificado"
 // Seu programa deve mostrar o valor do troco a ser devolvido ao cliente.
 // Se o dinheiro dado pelo cliente nao for suficiente, mostrar uma mensagem
 // informando o valor restante.
-// Autor(a): Caio de Assis Guimaraes
+// Autor(a): Caio de Assis Guimaraes.
 // Data atual: 21/03/2022
 Var
 
@@ -19,7 +19,7 @@ Var
 
 Inicio
 
-   escreva("Preço unitário do produto: ")
+   escreva("Preco unitario do produto: ")
    leia(produtoUnidade)
    escreva("Quantidade comprada: ")
    leia(quantidadeUnidades)

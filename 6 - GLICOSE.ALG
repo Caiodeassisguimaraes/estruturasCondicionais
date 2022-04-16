@@ -10,7 +10,7 @@ Algoritmo "6 - Glicose"
 //   Normal            Ate 100mg/dl
 //   Elevado           Maior que 100 ate 140 mg/dl
 //   Diabetes          Maior que 140 mg/dl
-// Autor(a): Caio de Assis Guimaraes.
+// Autor(a): Caio de Assis Guimaraes
 // Data atual: 21/03/2022
 Var
 
